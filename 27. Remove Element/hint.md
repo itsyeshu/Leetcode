@@ -1,5 +1,4 @@
 # Hint
-The problem statement clearly asks us to modify the array in-place
-and it also says that the element beyond the new length of the array can be anything.
 
-Given an element, we need to remove all the occurrences of it from the array.
+Keep track of the index that can be visited from the current index while traversing the full array length.
+If in between, the index that can be visited is less than the current index of the array, then you can't jump to the last index. Otherwise you reach the last index anyways.
