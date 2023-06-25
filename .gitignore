@@ -1,0 +1,6 @@
+# All compiled binaries
+*.exe
+
+
+# Local config
+.vscode
