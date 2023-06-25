@@ -1,18 +1,9 @@
-#include<iostream>
-#include<vector>
-#include<unordered_map>
 
-using std::unordered_map;
-using std::vector;
+/*
+// Using HashMap
 
 class Solution {
 public:
-
-    // Use one comment block at a time
-
-    /*
-    // Using HashMap
-
     int majorityElement(vector<int>& nums) {
         unordered_map<int, int> occurence_map;
         int size = nums.size();
@@ -27,12 +18,17 @@ public:
         }
         return solution;
     }
-    */
+};
 
-    /*
-    // Using Moore's Voting Algorithm (Optimal Solution)
+*/
 
-    */
+
+/*
+// Using Moore's Voting Algorithm
+
+*/
+class Solution{
+public:
     int majorityElement(vector<int>& nums) {
         int assumed_max_index = 0, count = 1;
         for (int i = 1; i < nums.size(); i++) {
@@ -48,13 +44,4 @@ public:
         return nums[assumed_max_index];
     }
 
-    Solution(){
-        vector<int> nums {3, 2, 3};
-        std::cout << majorityElement(nums) << std::endl; // 3
-    }
 };
-
-int main(){
-    Solution sol;
-    return 0;
-}
