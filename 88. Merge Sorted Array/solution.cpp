@@ -17,11 +17,4 @@ public:
         }
     }
 
-    void printArray(vector<int>& array){
-        for(int i : array){
-            std::cout << i << " ";
-        }
-        std::cout << std::endl;
-    }
-
 };
