@@ -1,6 +1,6 @@
-# 169. Majority Element
+# 189. Rotate Array
 
->**Note :** This problem can be found at [Leetcode ⧉](https://leetcode.com/problems/majority-element/).
+>**Note :** This problem can be found at [Leetcode ⧉](https://leetcode.com/problems/rotate-array/).
 
 ## Question statement
 
