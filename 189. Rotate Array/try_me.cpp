@@ -6,20 +6,31 @@ using std::vector;
 class Solution {
 public:
 
+
+    // Uncomment one of the below comment blocks at a time
+
+    /*
+    // Using Reverse method
+
     void reversePortion(vector<int>& nums, int startIndex, int lastIndex){
         for(int i{startIndex}; i <= (lastIndex + startIndex) / 2; i++){
             std::swap(nums[i], nums[lastIndex + startIndex - i]);
         }
     }
 
-    void rotate_withReversing(vector<int>& nums, int k) {
+    void rotate(vector<int>& nums, int k) {
         int lastIndex = nums.size() - 1;
         reversePortion(nums, 0, lastIndex - k);
         reversePortion(nums, lastIndex - k + 1, lastIndex);
         reversePortion(nums, 0, lastIndex);
     }
+    */
 
-    void rotate_withoutReversing(vector<int>& nums, int k) {
+    /*
+    // Without using Reverse method
+
+    */
+    void rotate(vector<int>& nums, int k) {
         int n = nums.size();
 
         k %= n;
@@ -51,17 +62,7 @@ public:
         vector<int> nums {1,2,3,4,5,6,7};
         int k = 3;
 
-        // Uncomment one of the below comment blocks at a time
-        /*
-        // With reversing the given array at breakpoint "k"
-        */
-        rotate_withReversing(nums, k);
-
-        /*
-        // Without reversing the given array at breakpoint "k"
-        rotate_withoutReversing(nums, k);
-        */
-
+        rotate(nums, k);
         printArray(nums); // 5 6 7 1 2 3 4
     }
 };
