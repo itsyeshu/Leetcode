@@ -1,6 +1,6 @@
 # Leetcode solutions in C++
 
-![GitHub Repo stars - itsyeshu leetcode](https://img.shields.io/github/stars/itsyeshu/leetcode?logo=github&label=Stars&color=gold) ![GitHub Commits - itsyeshu leetcode](https://img.shields.io/github/commit-activity/w/itsyeshu/leetcode/main?logo=github&label=Commits&color=5fcf5f) [![Linkedin profile](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/itsyeshu)
+![GitHub Repo stars - itsyeshu leetcode](https://img.shields.io/github/stars/itsyeshu/leetcode?logo=github&label=Stars&color=gold) ![GitHub Commits - itsyeshu leetcode](https://img.shields.io/github/commit-activity/w/itsyeshu/leetcode/main?logo=github&label=Commits&color=5fcf5f) [![Linkedin profile](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/itsyeshu) [![LeetCode user itsyeshu](https://img.shields.io/badge/dynamic/json?style=social&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fitsyeshu&logo=leetcode&logoColor=yellow)](https://leetcode.com/itsyeshu/)
 
 
 
