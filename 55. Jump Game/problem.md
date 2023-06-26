@@ -22,7 +22,3 @@ You will always arrive at index `3` no matter what. Its maximum jump length is `
 **Constraints:**
 * `1 <= nums.length <= 10^4`
 * `0 <= nums[i] <= 10^5`
-
-
-**More to read :**
-* [In-place algorithm | Wikipedia](https://en.wikipedia.org/wiki/In-place_algorithm)
