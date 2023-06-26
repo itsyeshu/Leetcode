@@ -1,7 +1,9 @@
 # Leetcode solutions in C++
 
-![GitHub Repo stars - itsyeshu leetcode](https://img.shields.io/github/stars/itsyeshu/leetcode?logo=github&label=Stars&color=gold) ![GitHub Commits - itsyeshu leetcode](https://img.shields.io/github/commit-activity/w/itsyeshu/leetcode/main?logo=github&label=Commits&color=5fcf5f) [![Linkedin profile](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/itsyeshu) [![LeetCode user itsyeshu](https://img.shields.io/badge/dynamic/json?style=social&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fitsyeshu&logo=leetcode&logoColor=yellow)](https://leetcode.com/itsyeshu/)
+[![LeetCode user itsyeshu](https://img.shields.io/badge/dynamic/json?style=social&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fitsyeshu&logo=leetcode&logoColor=yellow)](https://leetcode.com/itsyeshu/) ![GitHub Repo stars - itsyeshu leetcode](https://img.shields.io/github/stars/itsyeshu/leetcode?style=social&logo=github&label=Stars&color=gold) ![GitHub Commits - itsyeshu leetcode](https://img.shields.io/github/commit-activity/m/itsyeshu/leetcode/main?style=social&logo=github&label=Commits&color=5fcf5f)
 
+
+![Written in C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white) [![Linkedin profile](https://img.shields.io/badge/LinkedIn-Shubham_Yennawar-blue?badgeContent=Shubham&logo=linkedin&style=social)](https://linkedin.com/in/itsyeshu)
 
 
 Hello Leetcoders, I provide solutions in C++ to `Leetcode problems`, `Daily code competition`. If this repo helped you, please give it a star and don't forget to fork this repo and follow me.
