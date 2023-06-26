@@ -1,6 +1,6 @@
 # All compiled binaries
 *.exe
-
+badges.md
 
 # Local config
 .vscode
