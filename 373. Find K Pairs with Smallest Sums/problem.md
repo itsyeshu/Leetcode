@@ -3,6 +3,7 @@
 >**Note :** This problem can be found at [Leetcode ⧉](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/description/).
 <!-- Badges -->
 ![Leetcode medium level problem](https://img.shields.io/badge/Medium-ffc01e)
+![Queue Tag](https://img.shields.io/badge/Queue-cfcfcf) ![minHeap Tag](https://img.shields.io/badge/minHeap-cfcfcf) ![Arrays Tag](https://img.shields.io/badge/Arrays-cfcfcf)
 
 ## Question statement
 
