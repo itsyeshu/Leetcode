@@ -1,6 +1,8 @@
 # 1514. Path with Maximum Probability
 
->**Note :** This problem can be found at [Leetcode ⧉](https://leetcode.com/problems/path-with-maximum-probability/description/).
+>**Note :**
+>1. This problem can be found at [Leetcode ⧉](https://leetcode.com/problems/path-with-maximum-probability/description/).
+>2. This problem is the Daily LeetCoding Challenge for June, Day 28.
 <!-- Badges -->
 ![Leetcode medium level problem](https://img.shields.io/badge/Medium-ffc01e)
 ^Tags:^
